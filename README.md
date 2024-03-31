@@ -78,4 +78,4 @@
 </html>
 
 
-This code creates a basic registration form with fields for username, email, and password, along with a submit button. The styling is kept simple using CSS to make it look presentable. You can further customize it according to your requirements.
+
